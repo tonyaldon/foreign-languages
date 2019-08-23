@@ -37,6 +37,12 @@ Poche Espagnol<a>
 href="https://bescherelle.com/bescherelle-poche-anglais-9782218938320">Bescherelle
 Poche Anglais<a>
 
+These two decks are also available directly at <a href="https://ankiweb.net/shared/decks/">anki shared deck<a> page:
+1. <a href="https://ankiweb.net/shared/info/766610510">FRANÇAIS -
+   ESPAGNOL : Le Bescherelle Poche d'espagnol<a>
+2. <a href="https://ankiweb.net/shared/info/1839182478">FRANÇAIS -
+   ANGLAIS : Le Bescherelle Poche d'anglais<a>
+
 # Contact
 
 Do you have any question? Do you have any suggestion? Or, do you just
