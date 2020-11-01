@@ -1,12 +1,3 @@
-<p align="center">
-<a href="images/tony-aldon-github-presents-foreign-languages-small-size.svg">
-<img
-	src="images/tony-aldon-github-presents-foreign-languages-small-size.svg"
-	alt="Tony Aldon presents foreign-languages" title="Tony Aldon
-	presents foreign-languages">
-</a>
-<p/>
-
 # About
 
 `foreign-languages` pools some of the documents I've been using to
