@@ -1,7 +1,7 @@
 # About
 
 `foreign-languages` pools some of the documents I've been using to
-learn foreign languages (other than french). 
+learn foreign languages (other than french).
 
 Up to now, the main documents are two anki decks that I'm using with the very effective
 application [Anki](https://apps.ankiweb.net/).
@@ -27,12 +27,19 @@ These two decks are also available directly at [Anki shared deck](https://ankiwe
 1. [FRANÇAIS - ESPAGNOL : Le Bescherelle Poche d'espagnol](https://ankiweb.net/shared/info/766610510)
 2. [FRANÇAIS - ANGLAIS : Le Bescherelle Poche d'anglais](https://ankiweb.net/shared/info/1839182478)
 
+# Underway
+
+I've started making a new english deck from the book [Vocabulaire de l'anglais modern (by Michel Marcheteau, ed. Pocket)](https://www.amazon.es/Vocabulaire-langlais-moderne-Pocket-Langues/dp/2266102796).
+It's a work in progress, find the `csv` file [here](Anglais-Moderne.csv).
+I do it manually with the help of some custom `emacs` commands that
+you can find in [utils.el](utils.el) file.
+
 # Contact
 
 Do you have any question? Do you have any suggestion? Or, do you just
 want to start a chat? Please, feel free to:
 * leave me a message on twitter [@tonyaldon](http://www.twitter.com/tonyaldon)
-* or to email me at aldon.tony@gmail.com. 
+* or to email me at aldon.tony@gmail.com.
 
 # Sharing
 
