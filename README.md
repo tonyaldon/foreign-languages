@@ -29,9 +29,9 @@ These two decks are also available directly at [Anki shared deck](https://ankiwe
 
 # Underway
 
-I've started making a new english deck from the book [Vocabulaire de l'anglais modern (by Michel Marcheteau, ed. Pocket)](https://www.amazon.es/Vocabulaire-langlais-moderne-Pocket-Langues/dp/2266102796).
+I've started making a new english deck from the book [Vocabulaire de l'anglais moderne (by Michel Marcheteau, ed. Pocket)](https://www.amazon.es/Vocabulaire-langlais-moderne-Pocket-Langues/dp/2266102796).
 It's a work in progress, find the `csv` file [here](Anglais-Moderne.csv).
-I do it manually with the help of some custom `emacs` commands that
+I'm doing it manually with the help of some custom `emacs` commands that
 you can find in [utils.el](utils.el) file.
 
 # Contact
