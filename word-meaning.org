@@ -1,0 +1,90 @@
+#+title: word meaning
+#+author: tony aldon
+
+word meaning list
+
+* tools
+- https://www.dictionnaire-academie.fr/
+* French word
+** Science et techniques
+*** La science et les scientifiques
+- scientism: https://www.dictionnaire-academie.fr/article/A9S0818
+- empirique
+- inductif: https://www.dictionnaire-academie.fr/article/A9I1004
+- induction: https://www.dictionnaire-academie.fr/article/A9I1005
+Manière de raisonner qui consiste à inférer du particulier au
+général. Procéder, raisonner par induction.
+- intelect: https://www.dictionnaire-academie.fr/article/A9I1600
+- postulat: https://www.dictionnaire-academie.fr/article/A9P3645
+*** La biologie et la génétique
+- acide aminé: https://fr.wikipedia.org/wiki/Acide_amin%C3%A9
+- ADN (acide désoxyribo-nucléique): https://fr.wikipedia.org/wiki/Acide_d%C3%A9soxyribonucl%C3%A9ique
+- cellule: https://www.dictionnaire-academie.fr/article/A9C1259
+- chromosome: https://www.dictionnaire-academie.fr/article/A9C1259
+- eugénisme: https://www.dictionnaire-academie.fr/article/A9E3043
+- gène: https://www.dictionnaire-academie.fr/article/A9G0464
+- globule: https://www.dictionnaire-academie.fr/article/A9G0843
+- protéine: https://www.dictionnaire-academie.fr/article/A9P4739
+- chromosomique: https://www.dictionnaire-academie.fr/article/A9C2202
+*** Physique, l'électronique et la chimie
+- acide: https://www.dictionnaire-academie.fr/article/A9A0389
+- acoustique: https://www.dictionnaire-academie.fr/article/A9A0422
+- aérodynamique: https://www.dictionnaire-academie.fr/article/A9A0647
+- alliage: https://www.dictionnaire-academie.fr/article/A9A1232
+- ampère: https://www.dictionnaire-academie.fr/article/A9A1551
+- antimatière: https://www.dictionnaire-academie.fr/article/A9A1983
+- atome: https://www.dictionnaire-academie.fr/article/A9A2986
+- azote: https://www.dictionnaire-academie.fr/article/A9A3503
+- base: https://www.dictionnaire-academie.fr/article/A9B0518
+- burette: https://www.dictionnaire-academie.fr/article/A9B2453
+- carbone: https://www.dictionnaire-academie.fr/article/A9C0759l
+- charge: https://www.dictionnaire-academie.fr/article/A9C1667
+- cinétique: https://www.dictionnaire-academie.fr/article/A9C2327
+- combustion: https://www.dictionnaire-academie.fr/article/A9C3073
+- condensateur: https://www.dictionnaire-academie.fr/article/A9C3445
+- cybernétique: https://www.dictionnaire-academie.fr/article/A9C5393
+- distillation: https://www.dictionnaire-academie.fr/article/A9D2795
+- électroaimant: https://www.dictionnaire-academie.fr/article/A9E0687
+- électrode: https://www.dictionnaire-academie.fr/article/A9E0699
+- électrolyse: https://www.dictionnaire-academie.fr/article/A9E0710
+- électron: https://www.dictionnaire-academie.fr/article/A9E0724
+- énergie: https://www.dictionnaire-academie.fr/article/A9E1519
+- fission: https://www.dictionnaire-academie.fr/article/A9F0857
+- force centrifuge: https://fr.wikipedia.org/wiki/Force_centrifuge
+- force centripète: https://fr.wikipedia.org/wiki/Force_centrip%C3%A8te
+- force d'inertie:
+- gaz carbonique:
+- hydraulique:
+- hydrogène:
+- inertie: https://www.dictionnaire-academie.fr/article/A9I1068
+- ion: https://www.dictionnaire-academie.fr/article/A9I1992
+- isotope: https://www.dictionnaire-academie.fr/article/A9I2194
+- magnétisme: https://www.dictionnaire-academie.fr/article/A9M0160
+- masse: https://www.dictionnaire-academie.fr/article/A9M1271
+- mécanique ondulatoire:- métal:
+- neutron:
+- oxyde:
+- oxygène:
+- photon:
+- précipité:
+- pression:
+- proton:
+- radioactivité:
+- résistance:
+- robotique:
+- semi-contucteur:
+- soufre:
+- tension (électrique):
+- théorie quantique:
+- thermodynamique:
+- transistor:
+- valence:
+- volt:
+- watt:
+- acide:
+- alcalin:
+- basique:
+- biochimique:
+- gazeux:
+- magnétique:
+- dissoudre:
