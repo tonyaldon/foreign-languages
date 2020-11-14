@@ -6,7 +6,8 @@
   "Go to next line into the column French."
   (interactive)
   (when (search-forward "_")
-		(call-interactively 'csv-tab-command)))
+		(call-interactively 'csv-tab-command))
+	(scroll-right))
 
 (defun ta-add-word-meaning ()
   "Mark 'word' at point and copy it into the buffer below.
