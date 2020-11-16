@@ -263,7 +263,7 @@ ang_modern_00261	perdre de la vitesse	to lose momentum	SCIENCE ET TECHNIQUES	REG
 ang_modern_00262	les maths	maths, (US) math	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
 ang_modern_00263	il/elle est bon(ne) en maths	he/she is good at math(s)	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
 ang_modern_00264	matheux	math(s) expert/specialist	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
-ang_modern_00265	nous nous retrouvons au point de départ/nous recommençons à zéro	we're back to squiare one	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
+ang_modern_00265	nous nous retrouvons au point de départ/nous recommençons à zéro	we're back to square one	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
 ang_modern_00266	être ringard, conventionnel, vieux jeu	to be a square	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Langue familière et argotique
 ang_modern_00267	Recherche et développement	R&D (Research and Development)	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Néologismes
 ang_modern_00268	les milieux politiques/d'affaires	political/business circles	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Sens figuré
@@ -272,3 +272,33 @@ ang_modern_00270	gagner du terrain	to gather momentum	SCIENCE ET TECHNIQUES	REGI
 ang_modern_00271	perdre du terrain	to lose momentum	SCIENCE ET TECHNIQUES	REGISTRES DE LANGUE	Sens figuré
 ang_modern_00272	Ne pas confondre physicist, physicien, et physician, médecin.		SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00273	Attention à l'adjectif théorique en anglais se dit theoretical.		SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00274	2+5=7	two plus/and five is/equals seven	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00275	3-1=2	three minus one is/equals two	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00276	2x8=16	two (multiplied) by eight is/equals sixteen	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00277	10/2=5	ten divided by two is/equals five	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00278	deux à la puissance trois (au cube)	two power three	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00279	quatre est le carré de deux	four is the square of two	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00280	Attention à la décimale en anglais ; on utilise le point, car la virgule indique les milliers		SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00281	2,7 (deux virgule sept)	2.7 (two point seven) 	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00282	100 000	100,000 (one hundred thousand)	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00283	< se lit	is less than	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00284	> se lit	is greater than	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00285	Attention à la traduction de zéro	En mathématiques, on dit zero ou nought. Pour les températures, zero. Dans un numéro de téléphone, on lit O (oh). Au tennis et au squash, on emploie love. Au football et dans certains autres sports, on emploie nil.	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00286	mener deux jeux à zéro	to lead by two games to love	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00287	2,54 cm	1 inch (in.) (un pouce)	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00288	1 square inch (un pouce carré)	6,45 cm2	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00289	1 foot (ft) (un pied)	30,48 cm	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00290	1 square foot (un pied carré)	9,29 dm2	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00291	1 foot equals 12 inches	un pied est égal à 12 pouces	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00292	1 yard (yd) (un yard)	0.91 cm	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00293	1 square yard (un yard carré)	0,8361 m2	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00294	1 mile (ml) (un mile)	1609 cm	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00295	1 acre (ac)	40,47 ares	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00296	Euclide	Euclid	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00297	Pythagore	Pythagoras	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00298	Galilée	Galileo	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00299	Copernic	Copernicus	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00300	les lois de Newton	Newton's laws	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00301	les théories te la relativité d'Einstein	Einstein's theories of relativity	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00302	Le théorème de Pythagore : dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côté.	Pythagoras' theorem : in a right-anled triangle, the square of the length of the hypotenuse equals the sum of the other two sides.	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00303	Beaucoup de termes décrivant des sciences (ex : physics, acoustics, economics, etc.) portent un 's' au singulier.	ex: physics is my favourite subject : la physique est ma matière préférée.	SCIENCE ET TECHNIQUES	REMARQUES GRAMMATICALE	NULL
