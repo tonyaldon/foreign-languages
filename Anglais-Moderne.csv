@@ -292,13 +292,209 @@ ang_modern_00290	1 square foot (un pied carré)	9,29 dm2	SCIENCE ET TECHNIQUES	R
 ang_modern_00291	1 foot equals 12 inches	un pied est égal à 12 pouces	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00292	1 yard (yd) (un yard)	0.91 cm	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00293	1 square yard (un yard carré)	0,8361 m2	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
-ang_modern_00294	1 mile (ml) (un mile)	1609 cm	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00294	1 mile (ml) (un mile)	1609 km	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00295	1 acre (ac)	40,47 ares	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00296	Euclide	Euclid	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00297	Pythagore	Pythagoras	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00298	Galilée	Galileo	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00299	Copernic	Copernicus	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00300	les lois de Newton	Newton's laws	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
-ang_modern_00301	les théories te la relativité d'Einstein	Einstein's theories of relativity	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
-ang_modern_00302	Le théorème de Pythagore : dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côté.	Pythagoras' theorem : in a right-anled triangle, the square of the length of the hypotenuse equals the sum of the other two sides.	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00301	les théories de la relativité d'Einstein	Einstein's theories of relativity	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
+ang_modern_00302	Le théorème de Pythagore : dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côté.	Pythagoras' theorem : in a right-angled triangle, the square of the length of the hypotenuse equals the sum of the other two sides.	SCIENCE ET TECHNIQUES	REMARQUES LEXICALES	NULL
 ang_modern_00303	Beaucoup de termes décrivant des sciences (ex : physics, acoustics, economics, etc.) portent un 's' au singulier.	ex: physics is my favourite subject : la physique est ma matière préférée.	SCIENCE ET TECHNIQUES	REMARQUES GRAMMATICALE	NULL
+ang_modern_00304	accorder	to grant	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00305	acompte	deposit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00306	agence	branch	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00307	amortir	to write off	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00308	amortissement	writing off	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00309	argent	money ; silver	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00310	arriéré(s)	arrears	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00311	avance	advance	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00312	avancer	to advance, to lend	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00313	banque centrale	cental bank	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00314	banque d'affaires	merchant bank	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00315	banque	bank	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00316	banquier	banker	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00317	bénéfice	profit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00318	bénéficiaire	beneficiary ; payee	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00319	billet à ordre	promissory note	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00320	bordereau	slip	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00321	caisse d'épargne	savings bank	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00322	caisse	cash-desk	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00323	caissier	cashier	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00324	carte de crédit	credit card	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00325	caution	deposit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00326	chèque au porteur	bearer cheque, (US) check	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00327	chèque postal	giro cheque, (US) check	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00328	chèque sans provision	bad cheque, dud* check	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00329	chèque	cheque, (US) check	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00330	coffre fort	safe	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00331	compte en banque	bank(ing) account, (US) checking account	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00332	compte	account	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00333	cours	rate	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00334	crédit immobilier	real estate credit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00335	crédit	credit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00336	créditer	to credit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00337	débit	debit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00338	debiter	to débit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00339	débiteur	debtor	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00340	découvert	overdraft	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00341	déficit	deficit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00342	déficitaire	deficit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00343	depense(s)	spending	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00344	dépenser	to spend	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00345	dépôt	deposit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00346	détenir un compte	to hold an account	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00347	détenteur	holder	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00348	dette	debt	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00349	devis	estimate	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00350	devise	currency	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00351	échéance	due date, maturity	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00352	échoir	to fall due	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00353	économies	economies, saving	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00354	économiser	to save, to economise	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00355	effet de commerce	bill (of exchange)	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00356	émettre	to issue	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00357	émission	issue	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00358	employé de banque	bank clerk	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00359	emprun	loan	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00360	emprunter	to borrow	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00361	emprunteur	borrower	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00362	encaisser	to cash (in)	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00363	endetté	indebted	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00364	endettement	indebtedness ; debt load	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00365	endetter (s')	to run into debt	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00366	endosser	to endorse	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00367	épargne	savings	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00368	épargner	to save	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00369	escompte	discount	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00370	escompter	to discount	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00371	finance	finance	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00372	financement	financing ; funding	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00373	financer	to finance ; to fund	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00374	financier	financier*	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00375	fonds	funds	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00376	frais	expenses	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00377	garde d'objets de valeur	custody of valuables	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00378	gestion de portefeuille	portfolio management	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00379	guichet	window	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00380	guichetier	clerk	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00381	honorer	to honour, (US) honor	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00382	hypothèque	mortgage	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00383	hypothéquer	to mortgage	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00384	impayé	unpaid	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00385	intérêt	interest	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00386	investir	to invest	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00387	investissement	investment	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00388	investisseur	investor	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00389	lingot	ingot ; bullion	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00390	mensualité	(monthly) instalment, (US) installment	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00391	montant	amount	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00392	monter à (se)	to amount (to)	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00393	ouvrir un compte	to open an account	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00394	paiement	payment	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00395	pauvre	poor	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00396	pauvreté	poverty	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00397	payer	to pay	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00398	percevoir	to charge ; to levy	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00399	placement	investment	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00400	placer	to invest	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00401	politique monétaire	monetary policy	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00402	portefeuiile	portfolio	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00403	prêt	loan	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00404	prêter	to lend, (US) to loan	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00405	prêteur	lender	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00406	protêt	protest	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00407	rapporter	to yield	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00408	reconnaissance de dette	I.O.U	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00409	recouvrement	collection	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00410	reçu	receipt*	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00411	règlement	settlement	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00412	régler	to settle	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00413	relevé de compte	statement of account, bank statement	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00414	remboursement	reimbursement, refunt, paying back	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00415	rembourser	to reimburse, to refund, to pay back	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00416	rendement	yield	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00417	retire	to withdraw	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00418	retrait	withdrawal	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00419	riche	rich, wealthy	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00420	richesse	wealth	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00421	solde	balance	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00422	solvabilité	solvency	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00423	solvable	solvent	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00424	somme	amount, sum	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00425	souche	stub	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00426	souffrance (en)	outstanding	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00427	succursale	branch	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00428	talon	stub	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00429	taux d'escompte	discount rate	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00430	taux d'intérêt	interest rate	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00431	taux	rate	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00432	tiré (le)	the draw	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00433	tirer	to draw	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00434	tireur	drawer	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00435	titre	security	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00436	traite	draft, bill	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00437	vente à tempérament	hyre purchase	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00438	versement	payment ; remittance	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00439	verser	to pay	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00440	virement	transferer	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00441	virer	to transfer	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00442	argent liquide	hard cash	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00443	ouvrir un compte dans une agence	to open an account with a branch	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00444	ouvrir un compte courant	to open a current account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00445	ouvrir un compte chèque postal	to open a giro account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00446	détenir un compte	to hold/have an account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00447	créditer un compte	to credit an account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00448	équilibrer un compte	to debit an account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00449	débiter un compte d'une somme	to charge a sum to an account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00450	tirer sur un compte	to draw on an account	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00451	demander un prêt	to apply for a loan	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00452	remplir les conditions pour obtenir un prêt	to qualify/be eligible for a loan	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00453	accorder un prêt	to grant/make a loan	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00454	accorder des prêts personnels	to make individual loans	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00455	accorder un découvert	to float a loan	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00456	payer un intérêt	to pay (an) interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00457	rapporter un intérêt	to earn/yiel/carry/bear (an) interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00458	faire payer un intérêt	to charge interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00459	chercher un intérêt plus élevé, rechercher un meilleur rendement	to seek higher interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00460	une reconnaissance de dette	an I.O.U (de I owe you : je vous dois)	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00461	être en découvert, être en déficit	to be in the red	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00462	avoir un compte/solde créditeur ; avoir une gestion bénéficiaire	to be in the black	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00463	verser des arrhes	to pay/make/leave a deposit	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00464	rédiger, émettre un chèque	to write/make out/issue a cheque (US : check)	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00465	payer/régler par versements échelonnés	to pay by instalments (US : installments)	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00466	mensualités	monthly instalments	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00467	tirez sur nous à trois mois (de date)	draw on us three months after (date)	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00468	régler une dette	to settle a debt	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00469	to give notice	donner un préavis	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00470	faute de paiement, nous devrons engager des poursuites	failing payment we will have to take legal action	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00471	le temps c'est de l'argent	time is money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00472	être plein aux as	to be in the money (to be flush)	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00473	en avoir pour son argent	to get one's worth	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00474	faire un mariage d'argent	to marry money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00475	faire un héritage, devenir riche	to come into money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00476	pot de vin, prix du silence	hush money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00477	dessous de table	key money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
+ang_modern_00478	en espèces et au comptant, en espèces sonnantes et trébuchantes	cash on the barrel	ARGENT, BANQUE	REGISTRES DE LANGUE	cash
+ang_modern_00479	exploiter, tirer parti	ta cash in on	ARGENT, BANQUE	REGISTRES DE LANGUE	cash
+ang_modern_00480	un sou économisé est un sou gagné	a penny saved is a penny gained/earned	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00481	faire des économies de bout de chandelle, économiser les sous et prodiguer les louis	to be penny wise and pound foolish	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00482	quand le vin est tiré il faut le boire	in for a penny, in for a pound	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00483	il n'y a pas de petite économies, les petits ruisseaux font les grandes rivières	take care of the pence and the pounds will take care of themselves	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00484	ça vous coûtera cher	that will cost you a pretty penny	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00485	avare, pingre	penny-pincher	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00486	uriner	to spend a penny	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
+ang_modern_00487	l'autre aspect de la question, le revers de la médaille	the other side of the coin	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00488	créer un mot, une expression	to coin a word/an expression	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00489	tirer à pile ou face	to flip a coin	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00490	pile ou face (heads : face)	heads or tails	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00491	gagner le tirage au sort (matches de football, etc.)	to win the toss	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00492	flambant neuf, à l'état neuf	in mint condition	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00493	avoir valeur libératoire, devoir être accepté comme moyen de paiement	to be legal tender	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00494	régler la note	to foot the bill	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00495	ruée sur une banque (pour retirer ses fonds, se faire rembourser, etc.)	run on a bank	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00496	des haillons à la richesse (expression qui symbolise la réussite du rêve américain, avec ses succes stories permettant aux pauvres immigrants de faire fortune en une génération)		ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00497	tout ce qui brille n'est pas or	all that glitters is not gold	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00498	Banque centrale américaine	the Fed, the Federal Reserve System	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00499	la banque d'Angleterre	the Old Lady of Threadneedl Street	ARGENT, BANQUE	REGISTRES DE LANGUE	divers

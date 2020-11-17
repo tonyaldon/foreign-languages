@@ -88,3 +88,28 @@ général. Procéder, raisonner par induction.
 - gazeux:
 - magnétique:
 - dissoudre:
+** Argent, banque
+- arriéré(s):
+- billet à ordre:
+- bordereau:
+- chèque au porteur:
+- chèque postal:
+- créditer:
+- debiter:
+- débiteur:
+- dépôt:
+- détenteur:
+- devise:
+- échoir:
+- effet de commerce:
+- escompte:
+- escompter:
+- hypothéquer:
+- protêt:
+- solvabilité:
+- solvable:
+- souche:
+- taux d'escompte:
+- tirer:
+- tireur:
+- vente à tempérament:
