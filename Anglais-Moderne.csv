@@ -336,7 +336,7 @@ ang_modern_00334	crédit immobilier	real estate credit	ARGENT, BANQUE	VOCABULAIR
 ang_modern_00335	crédit	credit	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00336	créditer	to credit	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00337	débit	debit	ARGENT, BANQUE	VOCABULAIRE	NULL
-ang_modern_00338	debiter	to débit	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00338	debiter	to debit	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00339	débiteur	debtor	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00340	découvert	overdraft	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00341	déficit	deficit	ARGENT, BANQUE	VOCABULAIRE	NULL
@@ -357,7 +357,7 @@ ang_modern_00355	effet de commerce	bill (of exchange)	ARGENT, BANQUE	VOCABULAIRE
 ang_modern_00356	émettre	to issue	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00357	émission	issue	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00358	employé de banque	bank clerk	ARGENT, BANQUE	VOCABULAIRE	NULL
-ang_modern_00359	emprun	loan	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00359	emprunt	loan	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00360	emprunter	to borrow	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00361	emprunteur	borrower	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00362	encaisser	to cash (in)	ARGENT, BANQUE	VOCABULAIRE	NULL
@@ -415,7 +415,7 @@ ang_modern_00413	relevé de compte	statement of account, bank statement	ARGENT, 
 ang_modern_00414	remboursement	reimbursement, refunt, paying back	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00415	rembourser	to reimburse, to refund, to pay back	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00416	rendement	yield	ARGENT, BANQUE	VOCABULAIRE	NULL
-ang_modern_00417	retire	to withdraw	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00417	retirer	to withdraw	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00418	retrait	withdrawal	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00419	riche	rich, wealthy	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00420	richesse	wealth	ARGENT, BANQUE	VOCABULAIRE	NULL
@@ -498,3 +498,65 @@ ang_modern_00496	des haillons à la richesse (expression qui symbolise la réuss
 ang_modern_00497	tout ce qui brille n'est pas or	all that glitters is not gold	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
 ang_modern_00498	Banque centrale américaine	the Fed, the Federal Reserve System	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
 ang_modern_00499	la banque d'Angleterre	the Old Lady of Threadneedl Street	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00500	Attention à la prononciation de dollar, accentué sur la première syllabe		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00501	Attention à la place des symboles du dollar et de la livre, qui se placent avant les chiffres	$2,000two thousand dollars\n£250 two hundred and fifty pounds	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00502	Subdivisions de la livre	1 pound\n50 pence\n20 pence\n10pence\1 penny\na half-penny	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00503	Subdivisions du dollar	1 dollar\n50 cents\n25 cents\n10 cents\n5 cents\na cents	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00504	Attention aux chiffres. Dans two thousand cars, five hundred people... thousand et hundred sont invariables parce qu'ils sont considérés comme des adjectifs.	two thousand cars MAIS thousands of cars\nfive hundred dollars MAIS hundreds of dollars	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00505	Notez que loan signifie à la fois prêt et emprunt	to apply for a loan : demander un emprunt\nthebank made us a loan : la banque nous a accordé un prêt	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00506	Notez que debt signifi à la fois créance et dette		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00507	Notez que debtor signifie débiteur et indebtedness signifie endettement		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00508	amortir une dette	to redeem a debt	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00509	amortir des frais d'établissement	to amortize	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00510	amortir du matériel	to write off	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00511	Attention à to depreciate, depreciation, qui désigne tantôt la perte de valeur, tantôt le processus comptable (amortissement) destiné à compenser cette perte de valeur		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00512	Attention à la traduction de richesse : wealth ou, si c'est dans ce qu'elle a de plus abondant, et parfois provoquant et artificiel, riches.		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00513	Attention à la traduction de dépenses : expenses. Mais aussi spending (sommes dépensées, niveau de dépenses) ou expenditure(s) : dépense(s) budgetée(s) ou affectée(s) à un poste		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00514	Attention au sens de cash : argent liquide ou paiement comptant (y compris par chèque ou par carte de crédit) selon le contexte.	En principe, to pay cash : payer comptant se distingue de to pay in cash : payer en liquide	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00515	Notez la multiplicité des expressions signifiant faire faillite.	Du plus formel au plus familier : to go bankrupt, to file a petition in bankruptcy, to file for bankruptcy, to fail, to go under, to go broke, to go bust	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00516	abondance	affluence, plenty	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00517	accord	agreement	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00518	signer un accord	to sign an agreement	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00519	actif(s)	asset(s)	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00520	action(bourse)	share, (US) stock	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00521	actionnaire	shareholder, (US) stockholder	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00522	affaire	business; (entreprise) business firm; (bonne) bargain	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00523	baisse	fall, drop, decrease	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00524	balance commerciale	trade balance, balance of trade	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00525	balance des paiements	balance of payments	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00526	barrière douanière	tariff-wall, tariff-barrier	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00527	bénéfice	profit	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00528	bénéfices des sociétés	corporate profits	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00529	biens de consommation	cousumer goods	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00530	biens d'équipement	capital goods	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00531	bilan	balance-sheet	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00532	blocage des prix	price-freeze	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00533	blocage des salaires	wage-freeze	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00534	bourse	stock-exchange	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00535	caisse d'épargne	savings bank	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00536	chômage	unemployment	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00537	chômeur	unemployed person/worker	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00538	chômeurs (les)	the unemployed	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00539	commerce extérieur	foreign trade	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00540	compétition	competition	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00541	compétiteur	competitor	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00542	comptabilité	accounting	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00543	concurrence	competition	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00544	concurrent	competitor	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00545	conjoncture	the economy, the present economic situation, current trends	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00546	confiance	confidence	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00547	consommateur	consumer	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00548	consommation	consumption	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00549	consommer	to consume	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00550	courbe (graphique)	curve, graph	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00551	création d'entreprise	business formation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00552	crédit	credit	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00553	crédit (resserrement du, encadrement du)	credit squeeze	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00554	crise	crisis, slump	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00555	croissance	growth	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00556	déficit	deficit	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00557	déflation	deflation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00558	déflationniste	deflationary	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00559	demande	demand	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00560	dépense(s)	spending, expenditure(s)	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00561			ÉCONOMIE	VOCABULAIRE	NULL
