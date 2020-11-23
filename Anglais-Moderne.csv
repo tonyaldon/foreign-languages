@@ -455,7 +455,7 @@ ang_modern_00453	accorder un prêt	to grant/make a loan	ARGENT, BANQUE	LEXIQUE E
 ang_modern_00454	accorder des prêts personnels	to make individual loans	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
 ang_modern_00455	accorder un découvert	to float a loan	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
 ang_modern_00456	payer un intérêt	to pay (an) interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
-ang_modern_00457	rapporter un intérêt	to earn/yiel/carry/bear (an) interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
+ang_modern_00457	rapporter un intérêt	to earn/yield/carry/bear (an) interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
 ang_modern_00458	faire payer un intérêt	to charge interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
 ang_modern_00459	chercher un intérêt plus élevé, rechercher un meilleur rendement	to seek higher interest	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
 ang_modern_00460	une reconnaissance de dette	an I.O.U (de I owe you : je vous dois)	ARGENT, BANQUE	LEXIQUE EN SITUATION	NULL
@@ -497,14 +497,14 @@ ang_modern_00495	ruée sur une banque (pour retirer ses fonds, se faire rembours
 ang_modern_00496	des haillons à la richesse (expression qui symbolise la réussite du rêve américain, avec ses succes stories permettant aux pauvres immigrants de faire fortune en une génération)		ARGENT, BANQUE	REGISTRES DE LANGUE	divers
 ang_modern_00497	tout ce qui brille n'est pas or	all that glitters is not gold	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
 ang_modern_00498	Banque centrale américaine	the Fed, the Federal Reserve System	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
-ang_modern_00499	la banque d'Angleterre	the Old Lady of Threadneedl Street	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
+ang_modern_00499	la banque d'Angleterre	the Old Lady of Threadneedle Street	ARGENT, BANQUE	REGISTRES DE LANGUE	divers
 ang_modern_00500	Attention à la prononciation de dollar, accentué sur la première syllabe		ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00501	Attention à la place des symboles du dollar et de la livre, qui se placent avant les chiffres	$2,000two thousand dollars\n£250 two hundred and fifty pounds	ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00502	Subdivisions de la livre	1 pound\n50 pence\n20 pence\n10pence\1 penny\na half-penny	ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00503	Subdivisions du dollar	1 dollar\n50 cents\n25 cents\n10 cents\n5 cents\na cents	ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00504	Attention aux chiffres. Dans two thousand cars, five hundred people... thousand et hundred sont invariables parce qu'ils sont considérés comme des adjectifs.	two thousand cars MAIS thousands of cars\nfive hundred dollars MAIS hundreds of dollars	ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00505	Notez que loan signifie à la fois prêt et emprunt	to apply for a loan : demander un emprunt\nthebank made us a loan : la banque nous a accordé un prêt	ARGENT, BANQUE	REMARQUES	divers
-ang_modern_00506	Notez que debt signifi à la fois créance et dette		ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00501	Attention à la place des symboles du dollar et de la livre, qui se placent avant les chiffres	$2,000 two thousand dollars</br>£250 two hundred and fifty pounds	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00502	Subdivisions de la livre	1 pound</br>50 pence</br>20 pence</br>10 pence</br>1 penny</br>a half-penny	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00503	Subdivisions du dollar	1 dollar</br>50 cents</br>25 cents</br>10 cents</br>5 cents</br>a cents	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00504	Attention aux chiffres. Dans two thousand cars, five hundred people... thousand et hundred sont invariables parce qu'ils sont considérés comme des adjectifs.	two thousand cars MAIS thousands of cars</br>five hundred dollars MAIS hundreds of dollars	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00505	Notez que loan signifie à la fois prêt et emprunt	to apply for a loan : demander un emprunt</br>the bank made us a loan : la banque nous a accordé un prêt	ARGENT, BANQUE	REMARQUES	divers
+ang_modern_00506	Notez que debt signifie à la fois créance et dette		ARGENT, BANQUE	REMARQUES	divers
 ang_modern_00507	Notez que debtor signifie débiteur et indebtedness signifie endettement		ARGENT, BANQUE	REMARQUES	divers
 ang_modern_00508	amortir une dette	to redeem a debt	ARGENT, BANQUE	REMARQUES	divers
 ang_modern_00509	amortir des frais d'établissement	to amortize	ARGENT, BANQUE	REMARQUES	divers
