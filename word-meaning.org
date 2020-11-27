@@ -102,10 +102,10 @@ général. Procéder, raisonner par induction.
 - devise:
 - échoir:
 - effet de commerce:
-- escompte:
+- escompte: https://www.dictionnaire-academie.fr/article/A9E2593
 - escompter:
 - hypothéquer:
-- protêt:
+- protêt: https://www.dictionnaire-academie.fr/article/A9P4760
 - solvabilité:
 - solvable:
 - souche:
@@ -113,3 +113,25 @@ général. Procéder, raisonner par induction.
 - tirer:
 - tireur:
 - vente à tempérament:
+** Économie
+- conjoncture:
+- déflation:
+- déflationniste:
+- dévaluation:
+- dévaluer:
+- économie dirigée:
+- économie de marché:
+- état providence:
+- saturation:
+- torpeur:
+- inflation:
+- inflationniste:
+- marasme (être dans le):
+- milieux d'affaires:
+- obligation (bourse):
+- offre publique d'achat (OPA):
+- récession:
+- relance:
+- rendement:
+- rentabilité:
+- reprise:

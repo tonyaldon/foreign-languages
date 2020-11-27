@@ -527,7 +527,7 @@ ang_modern_00525	balance des paiements	balance of payments	ÉCONOMIE	VOCABULAIRE
 ang_modern_00526	barrière douanière	tariff-wall, tariff-barrier	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00527	bénéfice	profit	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00528	bénéfices des sociétés	corporate profits	ÉCONOMIE	VOCABULAIRE	NULL
-ang_modern_00529	biens de consommation	cousumer goods	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00529	biens de consommation	counsumer goods	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00530	biens d'équipement	capital goods	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00531	bilan	balance-sheet	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00532	blocage des prix	price-freeze	ÉCONOMIE	VOCABULAIRE	NULL
@@ -559,4 +559,201 @@ ang_modern_00557	déflation	deflation	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00558	déflationniste	deflationary	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00559	demande	demand	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00560	dépense(s)	spending, expenditure(s)	ÉCONOMIE	VOCABULAIRE	NULL
-ang_modern_00561			ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00561	dépression	depression	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00562	détail	retail	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00563	détail (vendre au )	to retail, to sell by retail	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00564	détaillant	retailer	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00565	dévaluation	devaluation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00566	dévaluer	to devalue, to devaluate	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00567	douanes	customs	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00568	droits de douanes	customs duties, customs tariffs	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00569	échelle des salaires	wage scale	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00570	échelle mobile	sliding wage scale	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00571	économie	the economy ; (science) economics	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00572	économie dirigée	planned economy	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00573	économie de marché	(free) market economy	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00574	économique	economic ; (rentable, qui fait faire des économies) economical	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00575	emploi	employment	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00576	employeur	employer	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00577	emprunt	loan	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00578	entreprise	firm, business (firm), enterprise	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00579	épargnant	investor, saver	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00580	épargne	saving(s)	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00581	épargner	to save	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00582	état providence	(the) welfare state	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00583	exportateur	exporter	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00584	exportation	export	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00585	exporter	to export	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00586	fisc	(GB) the Inland Revenue, (US) the Internal Revenue Service	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00587	fiscalité	taxation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00588	frais	expenses	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00589	frais généraux	overheads	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00590	fusion	merger	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00591	fusionner	to merge	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00592	gaspillage	waste	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00593	gaspiller	to waste	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00594	gérer	to manage, to run, to operate	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00595	gestion	management	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00596	gestionnaire	manager	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00597	graphique	chart, graph	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00598	grève	strike	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00599	grève (faire)	to go on strike, to strike, to be on strike	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00600	gros (n)	wholesale (trade)	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00601	grossiste	wholesaler	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00602	groupe de pression	pressure group; lobby	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00603	hausse	rise, increase	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00604	impôt	tax; taxation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00605	impôt sur le revenu	income tax	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00606	impôt sur les sociétés	corporate tax; (GB) company tax	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00607	incitation	incentive	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00608	indice	index	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00609	industrie pétrolière	(the) oil industry	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00610	inflation	inflation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00611	inflationniste	inflationary	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00612	investir	to invest	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00613	investissement	investment	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00614	investisseur	investor	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00615	libre échange	free-trade	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00616	licenciements	lay-offs, layoffs, (GB) redundancies	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00617	licencier	to lay off	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00618	logement	(secteur) housing	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00619	loi de l'offre et de la demande	(the) law of supply and demand	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00620	marasme (être dans le)	to be in the doldrums	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00621	marchandise	commodity, product	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00622	marchandises	goods	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00623	marché	market	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00624	milieux d'affaires	business quarters	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00625	niveau de vie	standard of living	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00626	obligation (bourse)	bond	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00627	offre	offer ; (de marchandise et services) supply	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00628	offre publique d'achat (OPA)	take-over bid	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00629	partenaire	partner	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00630	passif	liability, liabilities	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00631	patronat	management, managers	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00632	pays développé	developed nation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00633	pays en voie de développement	developing nation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00634	pénurie	shortage	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00635	perte	loss	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00636	plan	plan	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00637	planification	planning	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00638	planifier	to plan	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00639	pourcentage	percentage	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00640	prévision	forecast, estimate	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00641	production	production	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00642	produire	to produce	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00643	produit	product	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00644	produit national brut	gross national product, GNP	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00645	pronostic	forecast, estimate	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00646	prospérité	prosperity	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00647	protectionnisme	protectionnism	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00648	ralentissement	slowdown	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00649	récession	recession	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00650	relance	pump-priming	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00651	relations industrielles	industrial relations	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00652	rendement	output ; yield (valuer, agriculture) ; preformance	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00653	rentabilité	profitability	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00654	rentable	profitable	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00655	reprise	recovery ; (bourse) rally	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00656	ressources énergétiques	energy resources	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00657	revendication	claim	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00658	revendication salariale	wage-claim	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00659	revenu	income	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00660	saturation	saturation, glut	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00661	service(s)	service(s)	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00662	sidérurgie	(the) iron and steel industry	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00663	stimulant	incentive	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00664	stock	inventory, stock, store	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00665	subvention	subsidy	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00666	subventionner	to subsidize	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00667	surchauffer	overheating	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00668	surproduction	overproduction	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00669	sydicat	union ; (US) labor-union ; (GB) trade-union	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00670	taux	rate	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00671	tendance	trend	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00672	tension	tension, strain	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00673	titre (boursier)	security	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00674	torpeur	sluggishness	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00675	transaction	transaction, deal, operation	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00676	trimestre	quarter ; (académique) term	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00677	troubles sociaux	labour unrest	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00678	valeur	worth, value ; (bourse) security	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00679	vendeur, euse	salesman ; saleswoman ; salesperson ; (pl) salespeople	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00680	vente	sale	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00681	vente au détail	retail sale	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00682	une société de consommation	a consumer society	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00683	demande des consommateurs, niveau de la consommation	consumer demand	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00684	la société d'abondance	the affluent society	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00685	revenu disponible	disposable income	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00686	produit national brut	Gross National Product	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00687	consommation individuelle	per capita consumption	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00688	consommation des ménages	household consumption	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00689	investissement immobilier	investment in real estate	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00690	les affaires sont florissantes	business is booming	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00691	les affaires sont au point mort		ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00692	les prévisions ont été revues à la baisse (à la haute)	estimates have been revised downward (upward)	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00693	la concurrence est de plus en plus serrée	competition is keener end keener	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00694	l'avenir immédiat est sombre	the immediate outlook is gloomy	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00695	une reprise se dessine	a recovery is shaping up	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00696	l'économie est dans le marasme	the economy is in the doldrums	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00697	une reprise s'annonce	an upturn is in the works	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00698	le marché est actif, soutenu, stable	the market is brisk, buoyant, steady	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00699	le secteur a été victime de nombreuses grèves	the industry has been plagued by strikes	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00700	une épidémie de grèves sauvages	a rash of wildcat strikes	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00701	industriels aux abois	beleaguered industrialists	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00702	le gourvernement prône une politique de modération volontaire	the Government advocates a policy of voluntary restraint	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00703	accélérer la course prix-salaires	to speed up the wage-price spiral	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00704	raviver/relancer l'inflation	to revive/refuel/rekindle inflation	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00705	réduire le budget	to cut back the budget	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00706	licencier	to cut the payroll	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00707	se lancer dans une fièvre d'achats, de dépenses	to go on a spending/bying spree	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00708	une économie atone, apathique	a slack economy	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00709	demande	sagging demand	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00710	augmenter le rythme de la production	to step up production	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00711	atteindre un sommet, un creux	to reach a high, to hit a low	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00712	point le plus haut/ le plus bas jamais atteint	a record high, a record low	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00713	libérer le crédit, ouvrir (davantage) le robinet du crédit	to open the money tap wider	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00714	resserrement du crédit	credit squeeze	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00715	redresser une entreprise	to turne a firm around	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00716	taux de base (à l'origine de crédit accordé par les bankques à leurs meilleurs clients)	prime (lending) rate (US)	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00717	atteindre à la libre concurrence	unfair practice, restrictive practice, practice in restraint of trade	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00718	restreindre la concurrence, porter atteinte à la libre concurrence freiner le libre jeu de la concurrence	to restrain competition	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00719	lancer une entreprise	to launch a firm	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00720	lancer un emprunt	to float a loan	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00721	L'anglais utilise un nombre considérable de verbes et d'expressions pour indiquer les mouvements de hausse ou de baisse	monter, augmenter, faire monter, baisser, faire baisser, verbes indiquant des fluctuations, verbe indiquant une reprise	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00722	monter, augmenter (termes généraux)	to go up, to rise, to increase, to move up	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00723	monter, augmenter (progressivement)	to inch up, to edge up	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00724	monter, augmenter (fortement)	to swell, to surge, to balloon, to soar, to skyrocket	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00725	faire monter	to raise, to increase, to push up, to drive up	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00726	faire monter (fortement)	to boost	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00727	baisser (termes généraux)	to go down, to decrease, to fall, to drop	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00728	baisser (progressivement)	to edge down, to edge lower	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00729	baisser (fortement)	to sag, to sink, to slump, to plunge, to plummet	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00730	faire baisser	to lower, to decrease, to reduce, to push down	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00731	faire baisser (au sens de réduire (effectifs, budget))	to cut, to cut back, to cut down on	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00732	verbes indiquant des fluctuations (monter et descendre)	to fluctuate, to see-saw	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00733	verbes indiquant des fluctuations (montagnes russes)	to go into a roller-coaster	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00734	mots indiquant une reprise	recovery (terme le plus fréquent), revival, rebound, upturn, pickup, rally (boursière)	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00735	verbes indiquant une reprise	to recover, to rebound, to look up, to pick up, to rally	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00736	endiguer l'inflation	to stem inflation	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00737	juguler l'inflation	to curb inflation	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00738	faire échec à l'inflation	to check inflation	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00739	stopper l'inflation	to halt inflation	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00740	(de bull : haussier et bear : baissier) signifient souvent en hausse, en baisse ou optimiste, pessimiste	bullish / bearish	ÉCONOMIE	REGISTRES DE LANGUE	NULL
+ang_modern_00741	Attention à l'orthographe de : developed (un seul p), resource (un seul s)		ÉCONOMIE	REMARQUES	NULL
+ang_modern_00742	Attention au double sens de loan : emprunt ou prêt	Mais prêter : to lend, (US) to loan </br>emprunter : to borrow	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00743	Attention au double sens de debt : dette (argent que l'on doit) ou créance (argent qui vous est dû)		ÉCONOMIE	REMARQUES	NULL
+ang_modern_00744	Attention à la pronociation de %	per cent, accentué sur cent	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00745	Attention à la différence entre economics et the economy	economics (sing ou pl) : la science économique, les études d'économie </br>the economy : l'économie d'un pays donné pendant une période donnée (d'où l'article the) : the French economy : l'économie française</br>Economics peut aussi signifier la situation économique ou la conjoncture	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00746	Attention à la différence entre economic et economical	economic : économique, de l'économie, qui a trait à l'économie (au sens de economics ou the economy)</br>economical : économique au sens de qui fait faire des économies, rentable	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00747	Attention à la différence entre profit et benefit	synonymes dans un sens général, ils sont très différents dans un contexte économique.</br>profit : bénéfice, profit</br>benefit : avantage, allocation, prestation sociale</br>unemployment benefit : allocation de chômage</br>company profits, corporate profits : bénéfices des sociétés	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00748	Attention à la différence entre company et society	Le premier désigne une société de capitaux (SA ou SARL). Le second, en dehors de son sens général - ex. the consumer society : la société de consommation - désigne une association à but culturel ou humanitaire, et qui ne fait pas de bénéfices (non-profit)	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00749	Attention à la différence entre to rise et to raise	to rise : monter, augmenter, croître</br>to raise : faire monter, (faire) augmenter	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00750	Attention à la différence entre term et quarter	term : trimestre au sens académique</br>quarter : trimestre au sens économique	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00751	Attention à la différence entre produce et product/products	produce : qui n'a pas de pluriel et désigne un produit, une production, ou un ensemble de produits agricoles - ex. dairy produce : produit(s) laitier(s)</br>product, products : un, des produit(s), un, des article(s)	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00752	Attention à la différence entre entrepreneur, contractor, undertaker	entrepreneur : entrepreneur au sens économique du terme (créateur d'entreprise, etc.)</br>contractor : entrepreneur ou sens contractuel (public works contractor : entrepreneur publics)</br>undertaker : entrepreuneur... de pompes funèbres	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00753	Attention à la différence entre export(s) et exportation	Notez qu'exportations au sens des produits exportés sera export(s) plutôt qu'exportation, plus rare et réservé au sens de : le fait d'exporter	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00754	Attention à la différence entre Goods et good	Goods au sens de marchandises ne s'emploie qu'au pluriel (une marchandise : a commodity, a product), mais on le trouve au singulier au sens de bien dans la langue des économistes : a consumer good : un bien de consommation	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00755	Attention, statistics s'emploie en général au pluriel mais que le singulier a statistic exist bien		ÉCONOMIE	REMARQUES	NULL
+ang_modern_00756	Remarquez l'emploi de in après increase, rise, fall, drop, etc.	increase in prices ou price increase : augmentation de prix	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00757	Remarquez l'emploi facultatif en américain de by dans des cas comme :	augmenter de 5% : (US) to go up (by) 5%</br>augmenter de 5% : (GB) to go up by 5%	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00758	Assurez-vous par le context de bien comprendre le mot stock - au sens boursier -, susceptible d'avoir différents sens:	1. titre, valeur : government stock : titre d'état, obligation d'état</br>2. ensemble des actions d'une société</br>3. (US) = share : action (stockholder = shareholder = actionnaire)	ÉCONOMIE	REMARQUES	NULL
