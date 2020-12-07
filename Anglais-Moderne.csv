@@ -311,7 +311,7 @@ ang_modern_00309	argent	money ; silver	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00310	arriéré(s)	arrears	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00311	avance	advance	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00312	avancer	to advance, to lend	ARGENT, BANQUE	VOCABULAIRE	NULL
-ang_modern_00313	banque centrale	cental bank	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00313	banque centrale	central bank	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00314	banque d'affaires	merchant bank	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00315	banque	bank	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00316	banquier	banker	ARGENT, BANQUE	VOCABULAIRE	NULL
@@ -667,7 +667,7 @@ ang_modern_00665	subvention	subsidy	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00666	subventionner	to subsidize	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00667	surchauffer	overheating	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00668	surproduction	overproduction	ÉCONOMIE	VOCABULAIRE	NULL
-ang_modern_00669	sydicat	union ; (US) labor-union ; (GB) trade-union	ÉCONOMIE	VOCABULAIRE	NULL
+ang_modern_00669	syndicat	union ; (US) labor-union ; (GB) trade-union	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00670	taux	rate	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00671	tendance	trend	ÉCONOMIE	VOCABULAIRE	NULL
 ang_modern_00672	tension	tension, strain	ÉCONOMIE	VOCABULAIRE	NULL
@@ -689,7 +689,7 @@ ang_modern_00687	consommation individuelle	per capita consumption	ÉCONOMIE	LEXI
 ang_modern_00688	consommation des ménages	household consumption	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00689	investissement immobilier	investment in real estate	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00690	les affaires sont florissantes	business is booming	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
-ang_modern_00691	les affaires sont au point mort		ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00691	les affaires sont au point mort	business is at a standstill	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00692	les prévisions ont été revues à la baisse (à la haute)	estimates have been revised downward (upward)	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00693	la concurrence est de plus en plus serrée	competition is keener end keener	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00694	l'avenir immédiat est sombre	the immediate outlook is gloomy	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
@@ -713,10 +713,10 @@ ang_modern_00711	atteindre un sommet, un creux	to reach a high, to hit a low	ÉC
 ang_modern_00712	point le plus haut/ le plus bas jamais atteint	a record high, a record low	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00713	libérer le crédit, ouvrir (davantage) le robinet du crédit	to open the money tap wider	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00714	resserrement du crédit	credit squeeze	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
-ang_modern_00715	redresser une entreprise	to turne a firm around	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
-ang_modern_00716	taux de base (à l'origine de crédit accordé par les bankques à leurs meilleurs clients)	prime (lending) rate (US)	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00715	redresser une entreprise	to turn a firm around	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00716	taux de base (à l'origine de crédit accordé par les banques à leurs meilleurs clients)	prime (lending) rate (US)	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00717	atteindre à la libre concurrence	unfair practice, restrictive practice, practice in restraint of trade	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
-ang_modern_00718	restreindre la concurrence, porter atteinte à la libre concurrence freiner le libre jeu de la concurrence	to restrain competition	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
+ang_modern_00718	restreindre la concurrence, porter atteinte à la libre concurrence, freiner le libre jeu de la concurrence	to restrain competition	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00719	lancer une entreprise	to launch a firm	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00720	lancer un emprunt	to float a loan	ÉCONOMIE	LEXIQUE EN SITUATION	NULL
 ang_modern_00721	L'anglais utilise un nombre considérable de verbes et d'expressions pour indiquer les mouvements de hausse ou de baisse	monter, augmenter, faire monter, baisser, faire baisser, verbes indiquant des fluctuations, verbe indiquant une reprise	ÉCONOMIE	REGISTRES DE LANGUE	NULL
@@ -757,3 +757,286 @@ ang_modern_00755	Attention, statistics s'emploie en général au pluriel mais qu
 ang_modern_00756	Remarquez l'emploi de in après increase, rise, fall, drop, etc.	increase in prices ou price increase : augmentation de prix	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00757	Remarquez l'emploi facultatif en américain de by dans des cas comme :	augmenter de 5% : (US) to go up (by) 5%</br>augmenter de 5% : (GB) to go up by 5%	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00758	Assurez-vous par le context de bien comprendre le mot stock - au sens boursier -, susceptible d'avoir différents sens:	1. titre, valeur : government stock : titre d'état, obligation d'état</br>2. ensemble des actions d'une société</br>3. (US) = share : action (stockholder = shareholder = actionnaire)	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00759	an	year	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00760	année	year	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00761	décennie	decade	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00762	heure	hour	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00763	jour	day	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00764	millénaire	millenuim	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00765	minute	minute	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00766	mois	month	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00767	seconde	second	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00768	semaine	week	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00769	semestre	semester	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00770	siècle	century	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00771	trimestre	quarter; term	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00772	après-midi	afternoon	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00773	aube	dawn, daybreak	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00774	aurore	dawn, daybreak	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00775	coucher de soleil	sunset	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00776	crépuscule	twilight; dusk	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00777	jour	day	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00778	journée	day, daytime	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00779	lever du jour	sunrise	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00780	matin	morning	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00781	matinée	morning	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00782	midi	midday, noon	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00783	minuit	evening	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00784	soirée	evening	LA DURÉE, LE TEMPS	VOCABULAIRE	LE JOUR ET LA NUIT: DAY AND NIGHT
+ang_modern_00785	janvier	January	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00786	février	February	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00787	mars	March	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00788	avril	April	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00789	mai	May	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00790	juin	June	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00791	juillet	July	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00792	août	August	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00793	septembre	September	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00794	octobre	October	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00795	novembre	November	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00796	décembre	December	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
+ang_modern_00797	printems	spring	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
+ang_modern_00798	été	summer	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
+ang_modern_00799	automne	autumn, (US) fall	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
+ang_modern_00800	hiver	winter	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
+ang_modern_00801	abreger	to shorten, to abridge	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00802	accumulation	accumulation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00803	accumuler	to accumulate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00804	adolescence	adolescence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00805	adolescent, e	adolescent	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00806	allongement	lengthening	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00807	allonger	to lengthen	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00808	aménagement des horaires	flexible working hours, flexitime	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00809	amnistie	amnesty	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00810	amnistier	to amnesty, to pardon	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00811	an	year	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00812	anachronique	anachonistic	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00813	anachronisme	anachonism	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00814	ancien, ne	old ; (précédent) former, previous	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00815	ancienneté	age, antiquity, seniority	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00816	annales	annals, records	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00817	année	year	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00818	année-lumière	light-year	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00819	anniversaire	(personne) birthday ; anniversary	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00820	annualiser	to annualize	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00821	annuel	annual ; yearly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00822	annuellement	annually, every year, yearly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00823	antécédents	past record	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00824	antérieur	previous, former, prior	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00825	antérieurement	previously	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00826	antériorité	anteriority, antecedence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00827	anticipation	anticipation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00828	anticipé, e	early	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00829	anticiper	to anticipate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00830	antidater	to predate, to antedate, to foredate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00831	antique	ancient	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00832	antiquité	antiquity, ancient times	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00833	approcher	to approach, to near	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00834	après dîner	after dinner	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00835	après midi	afternoon	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00836	après	after ; afterwards	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00837	après-demain	the day after tomorrow	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00838	arrêt	stop, halt	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00839	arrêter	to stop, to halt	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00840	arriver	to come ; (à une période) to reach ; (se produire) to happen, to occur	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00841	atermoiement	delay, procrastination	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00842	atermoyer	to delay, to procrastinate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00843	attendre	to wait	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00844	attendu, e	expected	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00845	attente	wait ; expectation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00846	aujourd'hui	today	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00847	aussitôt	immediately, at once	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00848	autrefois	formerly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00849	avance	advance	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00850	être en avance	to be early	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00851	en avance sur son temps	ahead of one's time	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00852	avancer	(montre) to be fast ; (date) to bring forward	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00853	avant-coureur	preliminary	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00854	avant-guerre	pre-war period ; before the war	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00855	bâcler	to botch, to bungle	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00856	bientôt	soon	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00857	bref, ève	short	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00858	brièvement	briefly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00859	brièveté	brevity	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00860	brusque	sudden	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00861	brusquement	suddenly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00862	but	goal	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00863	butoir (date)	deadline	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00864	centenaire	centenary, centennial ; (personne âgée de cent ans) centenarian	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00865	cessation	cessation, ceasing, discontinuation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00866	cesser	to cease, to stop	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00867	changement de date	change of dates	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00868	cible	target	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00869	cibler	to target	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00870	coexistence	coexistence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00871	coexister	to coexist	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00872	commencement	beginning, start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00873	commencer	to begin, to start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00874	conclure	to conclude	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00875	conclusion	conclusion ; close	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00876	conjoncture	present situation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00877	conséquemment	consequently	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00878	conséquence	consequence ; outcome	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00879	conservateur, trice	conservative	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00880	conservation	preservation, conservation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00881	conservatisme	conservatism	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00882	constamment	constantly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00883	constant, e	constant	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00884	continu	continuous	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00885	continuation	continuation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00886	continuel	continual, unceasing, permanent	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00887	continuellement	continually, constantly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00888	continuer	to continue ; (à faire qqch) to keep (on) doing sth	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00889	continuité	continuity	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00890	correspondance	correspondence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00891	correspondre	to correspond	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00892	couper	to cut	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00893	coupler	to couple	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00894	coupure	cut	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00895	couramment	commonly, frequently, usually	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00896	courant	current	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00897	le 5 courant	the fifth of this month	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00898	courir du... au...	to run from... to...	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00899	couronner	to crown, to cap	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00900	cours	course, passage (of time)	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00901	coutumier	usual	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00902	couvrir (se - contre un risque)	to hedge	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00903	couvrir (une période)	to cover	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00904	création	creation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00905	créer	to create	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00906	culmination	culmination	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00907	culminer	to culminate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00908	cumul	cumulation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00909	cumuler	to cumulate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00910	cycle	cycle	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00911	cyclique	cyclical	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00912	d'abord	first	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00913	date	date	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00914	dater	to date	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00915	début	beginning, start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00916	débuter	to begin, to start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00917	décade	10 days, 10-day period	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00918	décalage	gap, lag	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00919	décaler	to change, to shift, to move	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00920	décennie	decade	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00921	déclin	decline	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00922	décliner	to decline	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00923	dégrader (se)	to wear out	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00924	déjà	already	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00925	démarrage	start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00926	démarrer	to start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00927	démodé	old-fashoned	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00928	dénouement	outcome ; issue	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00929	départ	departure ; start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00930	dépasser (en durée)	to exceed ; to outlast ; to outlive	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00931	dépêcher (se)	to hurry	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00932	déplacer	to change, to shift, to transfer, to move	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00933	dernier	last	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00934	dernièrement	recently	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00935	déroulement	development, unfolding	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00936	dérouler (se)	to take place	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00937	désormais	from now on	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00938	désuet, ète	obsolete	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00939	désuétude	disuse, obsolescence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00940	devancer	to precede, to overtake	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00941	dilatoire	dilatory	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00942	diligence	promptness, speed	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00943	discontiu	discontinuous	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00944	discontinuer	to discontiue	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00945	discontinuité	discontinuity	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00946	diurne	diurnal, day	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00947	durable	lasting, durable	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00948	durablement	durably	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00949	durant	during ; over	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00950	durée	duration	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00951	durer	to last	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00952	échéance	maturity, due date	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00953	économie (de temps)	saving	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00954	économiser du temps	to save time	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00955	qui économise du temps	time-saving	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00956	écouler (s')	to pass	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00957	émergence	emergence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00958	émergent	emerging	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00959	émerger	to emerge	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00960	enfuir (s') (temps)	to fly (by)	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00961	engager (s')	to commit one-self, to pledge oneself	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00962	engager	to begin, to start, to open	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00963	engendrer	to generate, to produce, to breed	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00964	ennui	boredom	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00965	ennuyer (s')	tobe/get bored	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00966	ennuyeux	boring	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00967	enraciné	(deep-)rooted	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00968	enregistrement	record, recording	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00969	enregistrer	to record	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00970	ensuite	then ; afterwards	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00971	ensuivre (s')	to follow, to ensue	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00972	entraîner	to entail, to bring about, to lead to, to result in, to cause	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00973	environ	about, around	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00974	éphémère	short-lived, brief, fleeting, ephemeral	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00975	épisode	episode	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00976	épisodique	sporadic, episodic	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00977	époque (d')	period	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00978	époque	era, age, time, period	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00979	épuisement	exhaustion	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00980	épuiser	to exhaust	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00981	ère	era	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00982	érosion	wear and tear, attrition, erosion	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00983	escompter	to expect, to anticipate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00984	espacer	to space	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00985	espérance de vie	life expectation/expectancy	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00986	espérer	to hope	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00987	espoir	hope	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00988	esquisse	sketch, draft, outline	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00989	esquisser	to outline	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00990	estival	summer	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00991	estomper (s')	to get/grow blurred	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00992	étalement	spreading ; (vacances) staggering	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00993	étaler	to spread	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00994	étendre (s')	to spread, to extend, to run	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00995	étendre	to spread, to extend	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00996	éternel	eternal, everlasting	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00997	éternellement	eternally, for ever	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00998	éterniser (s')	to drag on, to go on and on	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00999	éternité	eternity	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01000	événement	event	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01001	éventualité	possibility, contingency	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01002	éventuel	possible ; eventually	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01003	évolutif	evolutive	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01004	évolution	evolution	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01005	exceptionnel	exceptional	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01006	exercice (= année)	trading year, financial year, fiscal year	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01007	expectative	expectation, expectancy	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01008	expédier	to dispatch	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01009	expéditif	prompt, fast, expeditious	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01010	expérience (acquise)	experience	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01011	expérimenté	experienced	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01012	express	express	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01013	fatal	fatal, inveitable ; (mortel) deadly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01014	fatalité	fate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01015	feu	the late	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01016	fix (date)	set, fixed	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01017	fixer	to set, to fix	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01018	fois	time(s)	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01019	une fois	once	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01020	deux fois	twice	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01021	trois fois, etc.	three times, etc.	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01022	frais, fraîche	fresh	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01023	fréquent, e	frequent	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01024	fugitif, ve	fleeting	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01025	fuir (temps)	to fly	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01026	fuite (du temps)	passage of time	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01027	futur	future	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01028	futuriste	futuristic	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01029	futurologie	futurology	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01030	futurologue	futurologist	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01031	gagner (du temps)	to save (time)	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01032	gain	gain, saving	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01033	généalogie	genealogy	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01034	généalogique (arbre)	family-tree	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01035	généalogiste	genealogist	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01036	généalogique	genealogical	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01037	génération	generation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01038	habitude	habit	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01039	habituel	usual, customary	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01040	habituellement	usually	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_01041	habituer (s')	to get used (à: to)	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
