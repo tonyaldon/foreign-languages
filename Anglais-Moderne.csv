@@ -477,7 +477,7 @@ ang_modern_00475	faire un héritage, devenir riche	to come into money	ARGENT, BA
 ang_modern_00476	pot de vin, prix du silence	hush money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
 ang_modern_00477	dessous de table	key money	ARGENT, BANQUE	REGISTRES DE LANGUE	money
 ang_modern_00478	en espèces et au comptant, en espèces sonnantes et trébuchantes	cash on the barrel	ARGENT, BANQUE	REGISTRES DE LANGUE	cash
-ang_modern_00479	exploiter, tirer parti	ta cash in on	ARGENT, BANQUE	REGISTRES DE LANGUE	cash
+ang_modern_00479	exploiter, tirer parti	to cash in on	ARGENT, BANQUE	REGISTRES DE LANGUE	cash
 ang_modern_00480	un sou économisé est un sou gagné	a penny saved is a penny gained/earned	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
 ang_modern_00481	faire des économies de bout de chandelle, économiser les sous et prodiguer les louis	to be penny wise and pound foolish	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
 ang_modern_00482	quand le vin est tiré il faut le boire	in for a penny, in for a pound	ARGENT, BANQUE	REGISTRES DE LANGUE	penny
@@ -742,7 +742,7 @@ ang_modern_00740	(de bull : haussier et bear : baissier) signifient souvent en h
 ang_modern_00741	Attention à l'orthographe de : developed (un seul p), resource (un seul s)		ÉCONOMIE	REMARQUES	NULL
 ang_modern_00742	Attention au double sens de loan : emprunt ou prêt	Mais prêter : to lend, (US) to loan </br>emprunter : to borrow	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00743	Attention au double sens de debt : dette (argent que l'on doit) ou créance (argent qui vous est dû)		ÉCONOMIE	REMARQUES	NULL
-ang_modern_00744	Attention à la pronociation de %	per cent, accentué sur cent	ÉCONOMIE	REMARQUES	NULL
+ang_modern_00744	Attention à la pronociation de %	percent, accentué sur cent	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00745	Attention à la différence entre economics et the economy	economics (sing ou pl) : la science économique, les études d'économie </br>the economy : l'économie d'un pays donné pendant une période donnée (d'où l'article the) : the French economy : l'économie française</br>Economics peut aussi signifier la situation économique ou la conjoncture	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00746	Attention à la différence entre economic et economical	economic : économique, de l'économie, qui a trait à l'économie (au sens de economics ou the economy)</br>economical : économique au sens de qui fait faire des économies, rentable	ÉCONOMIE	REMARQUES	NULL
 ang_modern_00747	Attention à la différence entre profit et benefit	synonymes dans un sens général, ils sont très différents dans un contexte économique.</br>profit : bénéfice, profit</br>benefit : avantage, allocation, prestation sociale</br>unemployment benefit : allocation de chômage</br>company profits, corporate profits : bénéfices des sociétés	ÉCONOMIE	REMARQUES	NULL
@@ -762,7 +762,7 @@ ang_modern_00760	année	year	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMP
 ang_modern_00761	décennie	decade	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
 ang_modern_00762	heure	hour	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
 ang_modern_00763	jour	day	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
-ang_modern_00764	millénaire	millenuim	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
+ang_modern_00764	millénaire	millennium	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
 ang_modern_00765	minute	minute	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
 ang_modern_00766	mois	month	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
 ang_modern_00767	seconde	second	LA DURÉE, LE TEMPS	VOCABULAIRE	LES UNITÉS DE TEMPS: TIME UNITS
@@ -795,11 +795,11 @@ ang_modern_00793	septembre	September	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS D
 ang_modern_00794	octobre	October	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
 ang_modern_00795	novembre	November	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
 ang_modern_00796	décembre	December	LA DURÉE, LE TEMPS	VOCABULAIRE	LES JOURS DE LA SEMAINE : THE DAYS OF THE WEEK
-ang_modern_00797	printems	spring	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
+ang_modern_00797	printemps	spring	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
 ang_modern_00798	été	summer	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
 ang_modern_00799	automne	autumn, (US) fall	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
 ang_modern_00800	hiver	winter	LA DURÉE, LE TEMPS	VOCABULAIRE	LES SAISONS: THE SEASONS
-ang_modern_00801	abreger	to shorten, to abridge	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00801	abréger	to shorten, to abridge	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00802	accumulation	accumulation	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00803	accumuler	to accumulate	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00804	adolescence	adolescence	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
@@ -810,8 +810,8 @@ ang_modern_00808	aménagement des horaires	flexible working hours, flexitime	LA 
 ang_modern_00809	amnistie	amnesty	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00810	amnistier	to amnesty, to pardon	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00811	an	year	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
-ang_modern_00812	anachronique	anachonistic	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
-ang_modern_00813	anachronisme	anachonism	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00812	anachronique	anachronistic	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00813	anachronisme	anachronism	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00814	ancien, ne	old ; (précédent) former, previous	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00815	ancienneté	age, antiquity, seniority	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00816	annales	annals, records	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
@@ -925,7 +925,7 @@ ang_modern_00923	dégrader (se)	to wear out	LA DURÉE, LE TEMPS	VOCABULAIRE	AU F
 ang_modern_00924	déjà	already	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00925	démarrage	start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00926	démarrer	to start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
-ang_modern_00927	démodé	old-fashoned	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
+ang_modern_00927	démodé	old-fashioned	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00928	dénouement	outcome ; issue	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00929	départ	departure ; start	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
 ang_modern_00930	dépasser (en durée)	to exceed ; to outlast ; to outlive	LA DURÉE, LE TEMPS	VOCABULAIRE	AU FIL DU TEMPS: AS TIME GOES BY
