@@ -15,7 +15,7 @@
 The buffer below should contain the file \"word-meaning.org\".
 This command helps me keeping of the word I don't know the meaning."
   (interactive)
-	(ta-mark-sexp-at-point)
+	(handy-mark-sexp-at-point)
 	(call-interactively 'kill-ring-save)
 	(windmove-down)
 	(insert "- ")
