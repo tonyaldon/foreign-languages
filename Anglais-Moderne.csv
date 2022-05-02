@@ -400,7 +400,7 @@ ang_modern_00398	percevoir	to charge ; to levy	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00399	placement	investment	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00400	placer	to invest	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00401	politique monétaire	monetary policy	ARGENT, BANQUE	VOCABULAIRE	NULL
-ang_modern_00402	portefeuiile	portfolio	ARGENT, BANQUE	VOCABULAIRE	NULL
+ang_modern_00402	portefeuille	portfolio	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00403	prêt	loan	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00404	prêter	to lend, (US) to loan	ARGENT, BANQUE	VOCABULAIRE	NULL
 ang_modern_00405	prêteur	lender	ARGENT, BANQUE	VOCABULAIRE	NULL
@@ -1679,7 +1679,7 @@ ang_modern_01677	bref	in a nutshell	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NUL
 ang_modern_01678	avec le recul du temps	with (the wisdom of) hindsight	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
 ang_modern_01679	rétrospectivement	with (the wisdom of) hindsight	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
 ang_modern_01680	après coup, avec le recul du temps, rétrospectivement	in retrospect	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
-ang_modern_01681	sont peu nombreux/nombreuses	ar few and far between	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
+ang_modern_01681	sont peu nombreux/nombreuses	are few and far between	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
 ang_modern_01682	se produisent rarement	are few and far between	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
 ang_modern_01683	il était dix heures et demi pile	it was dead on half past ten	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
 ang_modern_01684	à onze heures précises	at eleven sharp	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	NULL
@@ -1748,7 +1748,7 @@ ang_modern_01746	à l'heure voulue	in due time	LA DURÉE, LE TEMPS	LEXIQUE EN SI
 ang_modern_01747	de façon répétée	time and again	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01748	le jour et l'heure	the date and time	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01749	faire une pause 	to take time off	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
-ang_modern_01750	un emploi à temps partiel	a part-time joub	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
+ang_modern_01750	un emploi à temps partiel	a part-time job	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01751	temps partagé	time-sharing	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01752	(heures supplémentaires) une fois et demi le tarif normal	time and a half	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01753	fixer/prévoir	to time	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
@@ -1777,9 +1777,9 @@ ang_modern_01775	être en avance sur son temps	to keep ahead of one's time	LA DU
 ang_modern_01776	être de son temps	to keep up with the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01777	suivre la mode	to keep up with the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01778	être à la page	to keep up with the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
-ang_modern_01779	être en retard sur son temps	to be behing the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
-ang_modern_01780	être en retard sur son époque	to be behing the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
-ang_modern_01781	être vieux jeu	to be behing the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
+ang_modern_01779	être en retard sur son temps	to be behind the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
+ang_modern_01780	être en retard sur son époque	to be behind the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
+ang_modern_01781	être vieux jeu	to be behind the times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01782	depuis des temps immémoriaux	time out of mind	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01783	bien s'amuser	to have a good time	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01784	s'amuser comme un fou	to have the time of one's life	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
@@ -1789,7 +1789,7 @@ ang_modern_01787	traverser une période difficile	to fall on hard times	LA DURÉ
 ang_modern_01788	tomber dans la misère	to fall on hard times	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01789	faire de la prison	to do time	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01790	faire de la prison	to serve time	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
-ang_modern_01791	un opportunist	a time-server	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
+ang_modern_01791	un opportuniste	a time-server	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01792	période	time-span, time-frame	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01793	durée	time-span, time-frame	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
 ang_modern_01794	créneau horaire	time-slot	LA DURÉE, LE TEMPS	LEXIQUE EN SITUATION	Time
@@ -1802,7 +1802,7 @@ ang_modern_01800	mieux vaut prévenir que guérir (une reprise à temps en écon
 ang_modern_01801	les événements n'attendent personne	time and tide wait for no man	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
 ang_modern_01802	chaque chose en son temps!	all in good time !	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
 ang_modern_01803	(pubs) C'est l'heure, on ferme.	Time, ladies and gentlemen !	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
-ang_modern_01804	ce qui es fait est fait	you can't turn the clock back	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
+ang_modern_01804	ce qui est fait est fait	you can't turn the clock back	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
 ang_modern_01805	on ne peut pas revenir en arrière	you can't turn the clock back	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
 ang_modern_01806	c'était le bon temps!	those were the day !	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
 ang_modern_01807	ça ira mieux demain	tomorrow is another day	LA DURÉE, LE TEMPS	REGISTRES DE LANGUE	Formules proverbiales
@@ -1823,7 +1823,7 @@ ang_modern_01821	minuit	twelve o'clock	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
 ang_modern_01822	quatorze heures	2 p.m.	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
 ang_modern_01823	Quelle heure est-il?	What time is it?	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
 ang_modern_01824	Quelle heure est-il?	What is the time?	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
-ang_modern_01825	Il es sept heures précises	It's seven sharp	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
+ang_modern_01825	Il est sept heures précises	It's seven sharp	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
 ang_modern_01826	Pour les horaires officiels (aéroports, gares, etc.) et dans certaines organisations (armée, etc.), on utilise le plus souvent les heures de 1 à 24.	15h = 15:00 ; 23h32 = 23:32	LA DURÉE, LE TEMPS	DIRE L'HEURE	NULL
 ang_modern_01827	La forme en -ing indique qu'une action est en train de se dérouler		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01828	En anglais, on emploie le prétérit, temps du passé, pour tout fait passé et daté, proche ou lointain.		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
@@ -1834,12 +1834,12 @@ ang_modern_01832	nous sommes ici depuis deux semaines	we've been here for two we
 ang_modern_01833	nous sommes ici depuis le début du mois	we've been here since the beginning of the month	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01834	Êtes-vous allé aux États-Unis?	Have you been to the U.S. ?	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01835	Après les conjonctions de temps (as soon as, when), on emploie le présent au lieu du futur français		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
-ang_modern_01836	nous partirons quand il sera prêt	we'll leave when is ready	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
+ang_modern_01836	nous partirons quand il sera prêt	we'll leave when he is ready	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01837	Pour opposer le passé au présent, on utilisera used to		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01838	Les chose ne sont plus ce qu'elles étaient	Things aren't what they used to be	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01839	Le cas possessif peut être employé pour indiquer des notions de temps (durée ou date)		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01840	les bénéfices de la semaine	the week's profits	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
-ang_modern_01841	je journal d'aujourd'hui	today's newspaper	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
+ang_modern_01841	le journal d'aujourd'hui	today's newspaper	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01842	bien distinguer entre (last, latest, latter, late, least)		LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01843	(le) dernier	(the) last	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
 ang_modern_01844	le plus récent, le dernier	the latest	LA DURÉE, LE TEMPS	REMARQUES GRAMMATICALES	NULL
@@ -1876,7 +1876,7 @@ ang_modern_01874	prévoir (et le faire savoir, prédire, sans base scientifique)
 ang_modern_01875	prévoir (et le faire savoir, en expert)	to forecast	LA DURÉE, LE TEMPS	REMARQUES LEXICALES	NULL
 ang_modern_01876	la loi prévoit que...	the law provides that...	LA DURÉE, LE TEMPS	REMARQUES LEXICALES	NULL
 ang_modern_01877	Majuscule obligatoire en anglais pour les jours de la semaine (Monday, etc.) et les mois de l'année (January, etc.)		LA DURÉE, LE TEMPS	ORTHOGRAPHE	NULL
-ang_modern_01878	le h n'est pas prononcé das hour, hourly	a whole hour : une heure entrière	LA DURÉE, LE TEMPS	PRONONCIATION	NULL
+ang_modern_01878	le h n'est pas prononcé das hour, hourly	a whole hour : une heure entière	LA DURÉE, LE TEMPS	PRONONCIATION	NULL
 ang_modern_01879	Attention au pluriel de month, months : ne pas rajouter d'e intercalaire entre le th et le s final		LA DURÉE, LE TEMPS	REMARQUES LEXICALES	NULL
 ang_modern_01880	Presently signifie bientôt en anglais britannique, mais à présent, aujourd'hui, en ce moment en américain		LA DURÉE, LE TEMPS	DIFFÉRENCES ENTRE ANGLAIS BRITANNIQUE ET AMÉRICAIN	NULL
 ang_modern_01881	Momentarily signifie momentanément en anglais britannique, mais immédiatement, d'ici quelques secondes en américain		LA DURÉE, LE TEMPS	DIFFÉRENCES ENTRE ANGLAIS BRITANNIQUE ET AMÉRICAIN	NULL
@@ -1934,12 +1934,12 @@ ang_modern_01932	voir	to see, to behold	PERCEPTION : LES SENS	VOCABULAIRE	LA VUE
 ang_modern_01933	vue	sight	PERCEPTION : LES SENS	VOCABULAIRE	LA VUE : SIGHT
 ang_modern_01934	ampoule	bulb	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01935	aveugler	to dazzle	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
-ang_modern_01936	allumer	toswitch a light on	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
+ang_modern_01936	allumer	to switch a light on	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01937	éteindre	to switch a light off	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01938	bougeoir	candlestick	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01939	bougie	candle	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01940	brillant	bright	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
-ang_modern_01941	bullet	to shine	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
+ang_modern_01941	briller	to shine	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01942	chatoyer	to shimmer	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01943	clignoter	to flicker	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
 ang_modern_01944	éblouir	to dazzle	PERCEPTION : LES SENS	VOCABULAIRE	LES LUMIÈRES : LIGHTS
